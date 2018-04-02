@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WashingMachine</string>
+    <string name="machine_id">WashingMachineID</string>
+
+</resources>
