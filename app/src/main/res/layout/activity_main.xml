@@ -6,19 +6,73 @@
     android:layout_height="match_parent"
     tools:context="com.example.u5888028.washingmachine.MainActivity">
 
-    <CheckBox
-        android:id="@+id/checkBox"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="CheckBox"
-        tools:layout_editor_absoluteX="29dp"
-        tools:layout_editor_absoluteY="79dp" />
-
     <TextView
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="TextView"
-        tools:layout_editor_absoluteX="38dp"
+        tools:layout_editor_absoluteX="16dp"
         tools:layout_editor_absoluteY="34dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="136dp" />
+
+    <Spinner
+        android:id="@+id/spinner4"
+        android:layout_width="270dp"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="82dp"
+        tools:layout_editor_absoluteY="34dp" />
+
+    <Spinner
+        android:id="@+id/spinner5"
+        android:layout_width="270dp"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="82dp"
+        tools:layout_editor_absoluteY="136dp" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Button"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="325dp" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Button"
+        tools:layout_editor_absoluteX="136dp"
+        tools:layout_editor_absoluteY="325dp" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Button"
+        tools:layout_editor_absoluteX="256dp"
+        tools:layout_editor_absoluteY="325dp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="231dp" />
+
+    <Spinner
+        android:id="@+id/spinner6"
+        android:layout_width="270dp"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="82dp"
+        tools:layout_editor_absoluteY="231dp" />
+
 </android.support.constraint.ConstraintLayout>
